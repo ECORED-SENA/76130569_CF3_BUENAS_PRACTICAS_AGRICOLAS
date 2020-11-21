@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "tema-1",
+    "title": "1. Trazabilidad del proceso",
+    "path": "pages/tema-1.html"
+  },  
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "tema-2",
+    "title": "2. Buenas prácticas agrícolas",
+    "path": "pages/tema-2.html"
+  }
+]

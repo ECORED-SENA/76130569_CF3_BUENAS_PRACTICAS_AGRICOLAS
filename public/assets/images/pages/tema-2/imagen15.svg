@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.833" height="86.833" viewBox="0 0 86.833 86.833">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="86.833" height="86.833" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repetir_cuadrícula_1" data-name="Repetir cuadrícula 1" clip-path="url(#clip-path)">
+    <g id="Grupo_3958" data-name="Grupo 3958" transform="translate(-2761.568 -12088.811)">
+      <g id="Grupo_3939" data-name="Grupo 3939">
+        <circle id="Elipse_169" data-name="Elipse 169" cx="43.416" cy="43.416" r="43.416" transform="translate(2761.568 12088.811)" fill="#70a83b"/>
+        <circle id="Elipse_120" data-name="Elipse 120" cx="36.416" cy="36.416" r="36.416" transform="translate(2768.568 12095.811)" fill="#fff"/>
+      </g>
+      <text id="A" transform="translate(2790.747 12109.267)" fill="#e6b54a" font-size="33" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="32">A</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609.822" height="44.539" viewBox="0 0 609.822 44.539">
+  <g id="Grupo_3927" data-name="Grupo 3927" transform="translate(-5988.923 -2987.336)">
+    <g id="Grupo_3926" data-name="Grupo 3926" transform="translate(2381 -43)">
+      <rect id="Rectángulo_39" data-name="Rectángulo 39" width="167.039" height="34.722" rx="12" transform="translate(3609.423 3031.836)" fill="#70a83b" stroke="#002110" stroke-miterlimit="10" stroke-width="3"/>
+      <g id="Grupo_182" data-name="Grupo 182">
+        <path id="Trazado_2781" data-name="Trazado 2781" d="M3793.381,3047.408v-4.662H3816.2v4.662Zm0,8.239v-4.662H3816.2v4.662Z" fill="#db9600"/>
+      </g>
+      <text id="Productividad" transform="translate(3618.66 3037.875)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="16.319" y="17">Productividad</tspan></text>
+      <rect id="Rectángulo_40" data-name="Rectángulo 40" width="167.039" height="34.722" rx="12" transform="translate(3836.321 3031.836)" fill="#9bd162"/>
+      <text id="Salidas" transform="translate(3848.664 3037.875)" fill="#002110" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="44.073" y="17">Salidas</tspan></text>
+      <rect id="Rectángulo_41" data-name="Rectángulo 41" width="167.039" height="34.722" rx="12" transform="translate(4050.705 3031.836)" fill="#9bd162"/>
+      <text id="Entradas" transform="translate(4063.048 3037.875)" fill="#002110" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="36.678" y="17">Entradas</tspan></text>
+      <g id="Grupo_183" data-name="Grupo 183">
+        <path id="Trazado_2782" data-name="Trazado 2782" d="M4038.3,3031.749l-14.009,34.808h-4.268l14.009-34.808Z" fill="#db9600"/>
+      </g>
+    </g>
+  </g>
+</svg>
